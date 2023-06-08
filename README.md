@@ -10,3 +10,14 @@ This is a solution of [FrontEnd Mentor](https://www.frontendmentor.io/challenges
 Live Site URL:(https://summary-component-result.netlify.app/) <br/>
 Solution URL:(https://github.com/LucasCPena/Results-summary-component)
 
+## Built with
+CSS <br/>
+HTML5
+CSS-FlexBox
+
+## Skills
+
+During the coding i learned new skill using HTML and CSS with Fronted Mentor
+<br>
+After any hours i spend in this code, using google and the FrontEnd mentor commmunity, i was happy with the result, but i know i need learn more and more, to improve my skills and do better
+
