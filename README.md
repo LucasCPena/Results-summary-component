@@ -12,7 +12,7 @@ Solution URL:(https://github.com/LucasCPena/Results-summary-component)
 
 ## Built with
 CSS <br/>
-HTML5
+HTML5<br/>
 CSS-FlexBox
 
 ## Skills
