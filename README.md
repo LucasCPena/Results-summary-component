@@ -19,5 +19,5 @@ CSS-FlexBox
 
 During the coding i learned new skill using HTML and CSS with Fronted Mentor
 <br>
-After any hours i spend in this code, using google and the FrontEnd mentor commmunity, i was happy with the result, but i know i need learn more and more, to improve my skills and do better
+After any hours i spend in this code, using google and the FrontEnd mentor community, i was happy with the result, but i know i need learn more and more, to improve my skills and do better
 
