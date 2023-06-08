@@ -1,6 +1,6 @@
 # Frontend Mentor - Results summary component
 
-![Summary Component](Project/Project.png)
+![Summary Component](./Project/Project.png)
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
