@@ -1,0 +1,170 @@
+body,
+html {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+* {
+    font-family: hanken grotesk;
+}
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
+
+.score {
+    display: grid;
+    border-radius: 30px;
+    background: linear-gradient(hsl(252, 100%, 67%), hsl(241, 81%, 54%));
+    width: 300px;
+    height: 500px;
+
+
+}
+
+.result {
+    padding-top: 10px;
+    margin-left: 5em;
+    height: 10em;
+    width: 10em;
+    border-radius: 100px;
+    background: linear-gradient(hsla(256, 72%, 46%, 1), hsl(241, 81%, 54%));
+}
+
+.summary {
+    
+    height: 100%;
+    display: grid;
+    align-content: space-evenly;
+    justify-self: center;
+    
+
+}
+
+.container {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    border-radius: 30px;                      
+    background: hsl(0, 0%, 100%);
+    border-radius: 30px;
+    box-shadow: 20px 20px 30px 10px hsla(234, 85%, 45%, 0.103);
+  
+ 
+}
+
+.card {
+    padding: 0px 30px;
+    width: 270px;
+    
+    
+}
+
+.button {
+    margin-bottom: 15px;
+    border-radius: 60px;
+    height: 50px;
+    background: linear-gradient(hsla(256, 72%, 46%, 1), hsl(241, 81%, 54%));
+    color: white;
+    cursor: pointer;
+}
+
+h2 {
+    margin-top: 10px;
+    padding: 0;
+    margin-bottom: 0;
+    margin-left: 5em;
+    color: white;
+
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    opacity: 0.8;
+    margin: 0;
+    margin-top: 30px;
+
+}
+.result h1{
+    font-size: 50px;
+}
+p {
+    text-align: center;
+    color: white;
+    opacity: 0.7;
+    margin: 0;
+    padding: 0;
+}
+
+p.text {
+    padding-top: 15px;
+    color: white;
+    opacity: 1;
+
+}
+
+h1.text2 {
+    text-align: left;
+    font-size: 1.5rem;
+    padding-bottom: 1em;
+    color: black;
+}
+
+.row {
+    margin-bottom: 30px;
+    display: flex;
+    align-items: center;
+    padding: 15px;
+    border-radius: 10px;
+    justify-content: space-between
+}
+
+#red{
+    background-color: hsla(0, 100%, 67%, 0.05);
+}
+
+.red{
+   color:  hsl(0, 100%, 67%);
+}
+#yellow{
+    background-color: hsla(39, 100%, 56%, 0.05);;
+}
+
+#green{
+    background-color:  hsla(166, 100%, 37%, 0.05); ;
+}
+
+.green{
+    color:hsl(166, 100%, 37%);
+}
+
+.yellow{
+    color: hsl(39, 100%, 56%);
+}
+
+#purple{
+   background-color:  hsla(234, 85%, 45%, 0.05);
+}
+
+.purple{
+    color: hsl(234, 85%, 45%);
+}
+.oppacity{
+    opacity: 0.5;
+}
+.icon{
+    display: flex;
+
+}
+
+.row span{
+    font-weight: 700;
+}
