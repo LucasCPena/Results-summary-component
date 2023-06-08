@@ -1,6 +1,7 @@
 # Frontend Mentor - Results summary component
 
-![Summary Component](.\.\.\.\Project.png)
+![Project](https://github.com/LucasCPena/Results-summary-component/assets/79058932/1175a26b-9a67-4af1-ad0b-4ce462e06258)
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
